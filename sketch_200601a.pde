@@ -4,9 +4,8 @@ void setup() {
 
 void draw() {
   background(255);
-  fill(0);
+  fill(0,0,255);
   rect(200, 200, 400, 400);
-  circle(200, 200, 50);
 }
 
 void keyPressed() {
